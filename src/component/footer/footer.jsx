@@ -21,7 +21,7 @@ export default function Footer() {
               </p>
               <p className="hover:text-cyan-500">📞 Phone: +91 9314 346 148</p>
               <p className="hover:text-cyan-500">
-                ✉ Email: info@puramenteinternational.com
+                ✉ Email: info@puramentejewel.com
               </p>
             </div>
 
