@@ -1,2 +1,3 @@
-const BaseURL = "http://46.202.164.62:4000";
+const BaseURL = "https://puramentejewel.com/api";
+
 export default BaseURL;
