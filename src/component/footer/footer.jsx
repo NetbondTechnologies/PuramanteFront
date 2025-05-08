@@ -17,7 +17,7 @@ export default function Footer() {
 
             <div className="mt-4 flex flex-col text-sm gap-2 text-white">
               <p className="hover:text-cyan-500">
-                📍 Address: 205A, Anand Prime, Haldighati Marg, Jaipur
+                📍 Address: 83/1 Ground Floor, Chetak Marg, Sector 8, Pratap Nagar, Jaipur-302033
               </p>
               <p className="hover:text-cyan-500">📞 Phone: +91 9314 346 148</p>
               <p className="hover:text-cyan-500">
@@ -97,6 +97,12 @@ export default function Footer() {
             </Link>
             <Link to={`/category/Bracelet`} className="hover:text-cyan-500">
               <button className="hover:text-cyan-500">{t("Bracelet")}</button>
+            </Link>
+              <Link to={`/category/Earrings`} className="hover:text-cyan-500">
+              <button className="hover:text-cyan-500">{t("Earrings")}</button>
+            </Link>
+              <Link to={`/category/Pendant`} className="hover:text-cyan-500">
+              <button className="hover:text-cyan-500">{t("Pendant")}</button>
             </Link>
           </div>
         </div>
