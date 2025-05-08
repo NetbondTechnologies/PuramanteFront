@@ -299,7 +299,7 @@ export default function Contactus() {
                   {t("write_to_us")}
                 </h3>
                 <p className="text-gray-600 font-medium text-lg">
-                  info@puramenteinternational.com
+                  info@puramentejewel.com
                 </p>
               </div>
             </div>
@@ -324,7 +324,7 @@ export default function Contactus() {
             {t("store_address")}
           </p>
           <p className="lg:text-xl font-semibold text-black">
-            {t("phone")}: 1414911855, +91 7023555055
+            {t("phone")}: +91 9314 346 148
           </p>
           <p className="lg:text-xl font-semibold text-black">{t("timings")}</p>
         </div>
